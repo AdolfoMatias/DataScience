@@ -1,0 +1,1 @@
+Este documento contém  modelos preditivos dos sobreiventes do naufrágio titanic de 1912, são elaborados três modelos distintos para prever quem sobreviu ou não, baseado nos registros existentes e verídicos dos passageiros.
